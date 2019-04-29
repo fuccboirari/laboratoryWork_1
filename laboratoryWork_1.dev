@@ -51,10 +51,10 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit2]
-FileName=task2.c
+FileName=task3.c
 
 [Unit1]
-FileName=task2.c
+FileName=task3.c
 CompileCpp=0
 Folder=
 Compile=1
