@@ -9,7 +9,7 @@ float func(float x){
 }
 
 void main(){
-	float x = 2.5;
+	float x = 2.6;
 	float fx = func(x);
 	printf("x =  %.4f\nf(x) = %.4f", x, fx);
 	printf("\nGive me x:\n");
