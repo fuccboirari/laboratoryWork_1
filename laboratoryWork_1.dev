@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit2]
-FileName=task5_main.c
+FileName=task6_main.c
 CompileCpp=0
 Folder=
 Compile=1
@@ -61,7 +61,7 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit3]
-FileName=task5_main.c
+FileName=task6_func.c
 CompileCpp=0
 Folder=
 Compile=1
@@ -70,8 +70,11 @@ Priority=1000
 OverrideBuildCmd=0
 BuildCmd=
 
+[Unit4]
+FileName=task6_main.c
+
 [Unit1]
-FileName=task5_func.c
+FileName=task6_func.c
 CompileCpp=0
 Folder=
 Compile=1
