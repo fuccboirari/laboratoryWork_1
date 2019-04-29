@@ -50,8 +50,11 @@ ProductVersion=
 AutoIncBuildNr=0
 SyncProduct=1
 
+[Unit2]
+FileName=task2.c
+
 [Unit1]
-FileName=task1.c
+FileName=task2.c
 CompileCpp=0
 Folder=
 Compile=1
