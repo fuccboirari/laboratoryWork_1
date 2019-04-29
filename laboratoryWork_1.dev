@@ -51,10 +51,17 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit2]
-FileName=task3.c
+FileName=task4.c
+CompileCpp=0
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
 
 [Unit1]
-FileName=task3.c
+FileName=task4.c
 CompileCpp=0
 Folder=
 Compile=1
